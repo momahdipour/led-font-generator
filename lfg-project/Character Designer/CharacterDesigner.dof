@@ -115,7 +115,7 @@ AutoIncBuild=1
 MajorVer=2
 MinorVer=0
 Release=3
-Build=412
+Build=413
 Debug=0
 PreRelease=0
 Special=0
@@ -126,7 +126,7 @@ CodePage=1252
 [Version Info Keys]
 CompanyName=Modern Noorsun Electronics Corp.
 FileDescription=LED Character Designer
-FileVersion=2.0.3.412
+FileVersion=2.0.3.413
 InternalName=LED Character Designer
 LegalCopyright=Copyright © - All rights reserved.
 LegalTrademarks=Modern Noorsun Electronics Corp.
