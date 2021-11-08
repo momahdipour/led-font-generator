@@ -1,0 +1,866 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Farsi resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_FAR)
+#ifdef _WIN32
+LANGUAGE LANG_FARSI, SUBLANG_DEFAULT
+#pragma code_page(1256)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE 
+BEGIN
+    IDS_FileMenuItem        "Ё«нб"
+    IDS_EditMenuItem        "жн—«н‘"
+    IDS_ViewMenuItem        "дг«н‘"
+    IDS_LCDMenuItem         "Ў—«Ќн"
+    IDS_ToolsMenuItem       "«»“«—е«"
+    IDS_HelpMenuItem        "—«едг«"
+    7                       "«нћ«ѕ Ў—«Ќн ћѕнѕ...ю"
+    IDS_STRING8             "»«“Ш—ѕд Ў—«Ќн...ю"
+    IDS_STRING9             "–ќн—е Ў—«Ќн ћ«—н"
+    10                      "–ќн—е Ў—«Ќн »« д«г ѕнР—...ю"
+    IDS_STRING11            "ж«—ѕ дгжѕд  ’жн—...ю"
+    IDS_STRING12            "ќ—жћн »’ж—  Шѕ...ю"
+    IDS_STRING13            "ќ—жћн ”—нЏ"
+    IDS_STRING14            " дўнг«  Н«Б...ю"
+    IDS_STRING15            "Н«Б ’ЁЌе Ў—«Ќн...ю"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING16            "ќ—жћ"
+    IDS_STRING17            "»—‘ (Cut)ю"
+    IDS_STRING18            "ШБн"
+    IDS_STRING19            "ѕ—ћ (Paste)ю"
+    IDS_STRING20            "Ќ–Ё"
+    IDS_STRING21            "Ш «»ќ«де Ш«—«Ш —"
+    IDS_STRING22            "г»ѕб г д"
+    IDS_STRING23            "Бн‘ дг«н‘  ’жн—н ’ЁЌе Ў—«Ќн"
+    IDS_STRING24            "дж«—е«н «»“«—"
+    IDS_STRING25            "»едР«гЭ”«“н Ш «»ќ«де Ш«—«Ш — «“ ѕн”Ш (Refresh)ю"
+    IDS_STRING26            "Џгжгн"
+    IDS_STRING27            "ж—жѕн ж ќ—жћн"
+    IDS_STRING28            "«д ќ«» Шб ’ЁЌе Ў—«Ќн"
+    IDS_STRING29            "Б«Ш Ш—ѕд ’ЁЌе Ў—«Ќн"
+    IDS_STRING30            " џнн— ж÷Џн  д«Ќне «д ќ«» ‘ѕе"
+    IDS_STRING31            "Н—ќ«дѕд ’ЁЌе"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING32            "‘нЁ  ѕ«ѕд ’ЁЌе"
+    IDS_STRING33            "‘нЁ  Н—ќ‘н ’ЁЌе Ў—«Ќн"
+    IDS_STRING34            "‘нЁ  Н—ќ‘н д«Ќне «д ќ«» ‘ѕе"
+    IDS_STRING35            "«нћ«ѕ Ш«—«Ш — «“ д«Ќне «д ќ«» ‘ѕе...ю"
+    IDS_STRING36            "ж«—ѕ дгжѕд  ’жн—...ю"
+    IDS_STRING37            " дўнг«  ’ЁЌе Ў—«Ќн...ю"
+    IDS_STRING38            "∞90 ѕ— ће  Џё—»е е«н ”«Џ "
+    IDS_STRING39            "∞90 ѕ— ќб«Ё ће  Џё—»е е«н ”«Џ "
+    IDS_STRING40            "ћ—ќ‘ ¬нде «н «Ёён"
+    IDS_STRING41            "Н—ќ‘ ¬нде «н Џгжѕн"
+    IDS_STRING42            "»е ”г  —«” "
+    IDS_STRING43            "»е ”г  НБ"
+    IDS_STRING44            "»е ”г  —«” "
+    IDS_STRING45            "»е ”г  НБ"
+    IDS_STRING46            "»е ”г  »«б«"
+    IDS_STRING47            "»е ”г  Б«ннд"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING48            "»е ”г  —«” "
+    IDS_STRING49            "»е ”г  НБ"
+    IDS_STRING50            "»е ”г  »«б«"
+    IDS_STRING51            "»е ”г  Б«ннд"
+    IDS_STRING52            "”«“г«д ѕедѕе Ш «»ќ«де Ш«—«Ш —...ю"
+    IDS_STRING53            "Ў—«Ќ Ш«—«Ш —...ю"
+    IDS_STRING54            " «»бжн —ж«д...ю"
+    IDS_STRING55            "“»«д...ю"
+    IDS_STRING56            " дўнг«  »—д«ге...ю"
+    IDS_STRING58            "Tip of the day"
+    IDS_STRING59            "ѕ—»«—е...ю"
+    IDS_STRING60            "Ш «»ќ«де Ш«—«Ш —"
+    IDS_STRING61            "Р—же е«"
+    IDS_STRING62            "Ш«—«Ш —е«"
+    IDS_STRING63            "Insert"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING64            "»“—Рдг«нн"
+    IDS_STRING65            "ќЎжЎ ’ЁЌе"
+    IDS_STRING66            "»“—Рдг«нн"
+    IDS_STRING67            "ќЎжЎ ’ЁЌе"
+    IDS_STRING68            "г д"
+    IDS_STRING69            " »ѕнб »е Шб Ў—«Ќн"
+    IDS_STRING70            " »ѕнб"
+    IDS_STRING71            " дўнг« "
+    IDS_STRING72            " дўнг ќжѕШ«— Џ—÷ ’ЁЌе"
+    IDS_STRING73            " дўнг ќжѕШ«— «— Ё«Џ ’ЁЌе"
+    IDS_STRING74            "дг«н‘ Бн«г е«н ќЎ«"
+    IDS_STRING75            "гд»Џ Ш«—«Ш —е«"
+    IDS_STRING76            "Ёжд  е«н ”н” г"
+    IDS_STRING77            "Ш «»ќ«де Ш«—«Ш —"
+    IDS_STRING78            " дўнг« ...ю"
+    IDS_STRING79            "Ёжд  е«н гЎбж»"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING80            "Ёжд "
+    IDS_STRING81            "дгжде"
+    IDS_STRING82            "еге Ёжд  е«н гжћжѕ"
+    IDS_STRING83            "Ёжд "
+    IDS_STRING84            "дгжде"
+    IDS_LCDMenuItem2        "»«“Ш—ѕд Ў—«Ќню"
+    IDS_ToolsMenuItem2      "–ќн—е Ў—«Ќню"
+    IDS_STRING87            "Ё—«гндн »—«н Ш«— »« Ё«нб е«н Ў—«Ќн"
+    IDS_STRING88            "Ё—«гнд жн—«н‘н Џгжгн"
+    IDS_STRING89            "Ё—«гндн »—«н  џнн— ў«е— »—д«ге"
+    IDS_STRING90            "Ё—«гнд жн—«н‘н ’ЁЌе Ў—«Ќн"
+    IDS_STRING91            "«»“«—е« ж Р“нде е«н гќ бЁ"
+    IDS_STRING92            "Ё—«гндн »—«н дг«н‘ —«едг« ж «Ўб«Џ«  »—д«ге"
+    IDS_STRING93            "«нћ«ѕ Ё«нб Ў—«Ќн ћѕнѕ"
+    IDS_STRING94            "»«“Ш—ѕд нШ Ё«нб Ў—«Ќн «“ ѕн”Ш"
+    IDS_STRING95            "–ќн—е  џнн—«  Ё«нб Ў—«Ќн ћ«—н"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING7004          "г»ѕб Шѕ »е Ў—«Ќн"
+    IDS_STRING86            "Шѕ"
+    IDS_STRING1001          " дўнг« "
+    IDS_STRING1002          "‘д«”«нн ќжѕШ«—"
+    IDS_STRING1003          "»«нд—н"
+    IDS_STRING1004          "г»д«н ‘«д“ѕе"
+    IDS_STRING1005          "Бн‘ждѕ:"
+    IDS_STRING1006          "Б”ждѕ:"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING1007          "Бн‘ дг«н‘"
+    IDS_STRING1008          " — н» ” жд »е ” жд"
+    IDS_STRING1009          "»“—Рдг«нн:"
+    IDS_STRING1010          "ќЎжЎ ’ЁЌе"
+    IDS_STRING1011          "ё—«—ѕ«ѕд ѕ— ’ЁЌе"
+    IDS_STRING1012          "ШБн"
+    IDS_STRING179           "Paste"
+    IDS_STRING1015          "Clear"
+    IDS_STRING206           "«“ «нд Ш«—«Ш —е« ’—ЁЭдў— ‘жѕ:ю"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING1017          "бн”  ќЎ«е«"
+    IDS_STRING1013          "»” д"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING1503          "ќ—жћн »’ж—  Шѕ"
+    IDS_STRING1502          "ќ—жћн Џ«ѕн"
+    IDS_STRING2002          "ќ—жћн"
+    IDS_STRING2003          "ЁёЎ д«Ќне «д ќ«» ‘ѕе"
+    IDS_STRING2004          "Ё—г  ќ—жћн"
+    IDS_STRING2005          " — н» ќ—жћн"
+    IDS_STRING2006          "»«нд—н"
+    IDS_STRING2007          "г»д«н ‘«д“ѕе"
+    IDS_STRING2008          "Бн‘ждѕ:"
+    IDS_STRING2009          "Б”ждѕ:"
+    IDS_STRING2010          "NOT Ш—ѕд гё«ѕн—"
+    IDS_STRING2011          "” жд »е ” жд"
+    IDS_STRING2012          "—ѕнЁ »е —ѕнЁ"
+    IDS_STRING2013          " — н» »—ЏШ”"
+    IDS_STRING2014          "ќ—жћн Бн‘—Ё е"
+    IDS_STRING2015          "ћѕ«Шддѕе е«н ” жд"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING2016          "ћѕ«Шддѕе е«н —ѕнЁ"
+    IDS_STRING2017          "ё—«— ѕ«ѕд нШ ћѕ«Шддѕе ” жд »Џѕ «“ е—"
+    IDS_STRING2018          "г д ћѕ«Шддѕе:"
+    IDS_STRING2019          "«нћ«ѕ —ѕнЁ ћѕнѕ »Џѕ «“ е—"
+    IDS_STRING2020          "ё—«— ѕ«ѕд нШ ћѕ«Шддѕе —ѕнЁ »Џѕ «“ е—"
+    IDS_STRING2021          "г д ћѕ«Шддѕе:"
+    IDS_STRING2022          "«Џг«б  дўнг« "
+    IDS_STRING2023          "«Џг«б ќжѕШ«—  дўнг« "
+    IDS_STRING2024          "ќ—жћн ”—нЏ"
+    IDS_STRING2025          "ШБн Ш—ѕд ќ—жћн »е ШбнБ »ж—ѕ"
+    IDS_STRING2026          "–ќн—е ќ—жћн ѕ— Ё«нб:"
+    IDS_STRING2027          "ШБн"
+    IDS_STRING2028          "–ќн—е ѕ— Ё«нб...ю"
+    IDS_STRING2029          "»” д"
+    IDS_STRING2030          "–ќн—е ќ—жћн ѕ— Ё«нб"
+    IDS_STRING2031          "Ё«нб ќ—жћн —«  Џннд Шднѕ"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING2033          "ж«—ѕ дгжѕд  ’жн—ю"
+    IDS_STRING2032          " ’жн— ж—жѕн"
+    IDS_STRING2502          "ж«—ѕ дгжѕд  ’жн—...ю"
+    IDS_STRING2503          "гён«”  џнн— «дѕ«“е:"
+    IDS_STRING2504          "—дР Бн‘ “гнде"
+    IDS_STRING2505          "Tolerance: "
+    IDS_STRING2506          "Бн‘ дг«н‘"
+    IDS_STRING2507          "»“—Рдг«нн:"
+    IDS_STRING2508          "ќЎжЎ ’ЁЌе"
+    IDS_STRING2509          "Р“нде е«"
+    IDS_STRING2510          "гЏШж” Ш—ѕд ќ«де е«н ’ЁЌе"
+    IDS_STRING2511          "ё—«— ѕ«ѕд ѕ— гЌб гШ«д дг«"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING2512          "ё—«—ѕ«ѕд ѕ— Шб ’ЁЌе"
+    IDS_STRING2513          "»” д"
+    IDS_STRING2514          "ж«—ѕ дгжѕд  ’жн—"
+    IDS_STRING164           "Select color tolerance:"
+    IDS_STRING207           "Import from Clipboard"
+    IDS_STRING2517          "ЁёЎ д«Ќне «д ќ«» ‘ѕе"
+    IDS_STRING2518          "Imports only the area selected on the preview."
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING2520          " «»бжн —ж«д"
+    IDS_STRING2515          "»“—Рдг«нн:"
+    IDS_STRING3002          "ќЎжЎ ’ЁЌе"
+    IDS_STRING3003          "ће "
+    IDS_STRING3004          "»е НБ"
+    IDS_STRING3005          "»е —«” "
+    IDS_STRING3006          "”—Џ "
+    IDS_STRING3007          "¬е” е"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING3008          "”—нЏ"
+    IDS_STRING3009          "»” д"
+    IDS_STRING3010          "Бн‘—Ё е"
+    IDS_STRING3011          "Р“нде е«н Бн‘—Ё е"
+    IDS_STRING3012          "–ќн—е е— Ё—нг ѕ— Ё«нб"
+    IDS_STRING3013          "Ё«нб ќ—жћн:"
+    IDS_STRING3014          "«ћ—«н нШ »—д«ге ќ«—ћн »Џѕ «“ е— Ё—нг ж «д ў«— »—«н ќ« ге ¬д"
+    IDS_STRING3015          "»—д«ге ќ«—ћн:"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING3017          " дўнг«  ’ЁЌе Ў—«Ќн"
+    IDS_STRING3016          "«дѕ«“е ’ЁЌе Ў—«Ќн"
+    IDS_STRING3502          "Џ—÷:"
+    IDS_STRING3503          "«— Ё«Џ:"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING3504          " дўнг«  дг«н‘"
+    IDS_STRING3505          "—дР ќ«де е«н —ж‘д:"
+    IDS_STRING3506          "—дР ќ«де е«н ќ«гж‘:"
+    IDS_STRING3507          "—дР ќЎжЎ ћѕ«Шддѕе:"
+    IDS_STRING3508          "»« Р—Ё д Шд —б ж ШбнШ —жн нШ ќ«де° —дР ќ«де  џнн— Шдѕ"
+    IDS_STRING3509          "Бн‘—жн ќжѕШ«— гШ«д дг« едР«г ё—«— ѕ«ѕд Ш«—«Ш —е« »— —жн ’ЁЌе Ў—«Ќн «“ Ш «»ќ«де Ш«—«Ш —"
+    IDS_STRING3510          "гШ«д дг«н ’ЁЌе"
+    IDS_STRING3511          "дг«н‘ гШ«д дг«"
+    IDS_STRING3512          "—дР гШ«д дг«:"
+    IDS_STRING3513          " дўнг«  »—д«ге...ю"
+    IDS_STRING3514          " √ннѕ"
+    IDS_STRING3515          "бџж"
+    IDS_STRING219           "«“ —дР е«н нШдж«ќ  «” Ё«ѕе ‘жѕ"
+    IDS_STRING262           "—дРЭе«н Бн‘ЭЁ—÷"
+    IDS_STRING264           " дўнг«  ѕнР—"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING3517          "Бн‘ дг«н‘  ’жн—н ’ЁЌе Ў—«Ќн"
+    IDS_STRING3516          "–ќн—е »’ж—   ’жн—...ю"
+    IDS_STRING4002          "–ќн—е ’ЁЌе Ў—«Ќн »’ж—   ’жн—"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING4004          "”«“г«д ѕедѕе Ш «»ќ«де Ш«—«Ш —"
+    IDS_STRING4003          "«нћ«ѕ ”—Р—же Ш«—«Ш —н...ю"
+    IDS_STRING4502          "«нћ«ѕ “н—Р—же...ю"
+    IDS_STRING4503          "д«г ќ«’...ю"
+    IDS_STRING4504          "д«г ”Ё«—‘н...ю"
+    IDS_STRING4505          "Co&py Here"
+    IDS_STRING4506          "Mo&ve Here"
+    IDS_STRING4507          "бџж"
+    IDS_STRING4508          "«нћ«ѕ Р—же"
+    IDS_STRING4509          " џнн— д«г"
+    IDS_STRING4510          "Ќ–Ё"
+    IDS_STRING4511          " џнн— д«г"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING4512          "Ќ–Ё"
+    IDS_STRING4513          "«д ё«б »е >>"
+    IDS_STRING4514          "ШБн »е >>"
+    IDS_STRING4515          "Бн‘ дг«н‘"
+    IDS_STRING4516          "дг«н‘ Бн‘ дг«н‘"
+    IDS_STRING4517          "»“—Рдг«нн:"
+    IDS_STRING4518          "ќЎжЎ ’ЁЌе"
+    IDS_STRING4519          "»” д"
+    IDS_STRING1016          "Create new category"
+    IDS_STRING4521          "Rename selected category"
+    IDS_STRING4522          "Delete an empty category"
+    IDS_STRING4523          "Rename selected character"
+    IDS_STRING4524          "Delete selected character"
+    IDS_STRING4527          "Drag & Drop characters here"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING4525          "Ў—«Ќн ћѕнѕ"
+    IDS_STRING4520          "«дѕ«“е ’ЁЌе Ў—«Ќн"
+    IDS_STRING5002          "Џ—÷:"
+    IDS_STRING5003          "«— Ё«Џ:"
+    IDS_STRING5004          "»е Џдж«д «дѕ«“е Бн‘ Ё—÷  дўнг ‘жѕ"
+    IDS_STRING5005          " √ннѕ"
+    IDS_STRING5006          "бџж"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING5008          " дўнг«  »—д«ге"
+    IDS_STRING5007          "Ш «»ќ«де Ш«—«Ш —"
+    IDS_STRING5502          "г”н— Ш «»ќ«де Ш«—«Ш —:"
+    IDS_STRING5503          " џнн— г”н—...ю"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING5504          "«дѕ«“е Бн‘ Ё—÷ ’ЁЌе Ў—«Ќн"
+    IDS_STRING5505          "«дѕ«“е Бн‘ Ё—÷ Џ—÷ ’ЁЌе »—«н Ў—«Ќн е«н ћѕнѕ:"
+    IDS_STRING5506          "«дѕ«“е Бн‘ Ё—÷ «— Ё«Џ ’ЁЌе »—«н Ў—«Ќн е«н ћѕнѕ:"
+    IDS_STRING5507          " дўнг«  ѕнР—"
+    IDS_STRING5508          "Џѕг дг«н‘ Бдћ—е  Џннд «дѕ«“е »—«н Ў—«Ќн е«н ћѕнѕ"
+    IDS_STRING5509          " џнн— Шбне  дўнг«  »—д«ге »е Ќ«б  Бн‘ Ё—÷"
+    IDS_STRING5510          " дўнг«  ’ЁЌе Ў—«Ќн...ю"
+    IDS_STRING5511          " √ннѕ"
+    IDS_STRING5512          "бџж"
+    IDS_STRING533           "бн”  Ё«нб е«н «ќн—«р «” Ё«ѕе ‘ѕе:"
+    IDS_STRING534           "Ё«нб"
+    IDS_STRING237           "Ќѕ«ШЋ—  Џѕ«ѕ ѕЁЏ«  »«“Р—ѕ«дн »е Ќ«б  ё»б (Undo):ю"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING96            "–ќн—е Ў—«Ќн ћ«—н ѕ— нШ Ё«нб ѕнР—"
+    IDS_STRING97            "ж«—ѕ дгжѕд Ё«нб е«н  ’жн—н »е ’ЁЌе Ў—«Ќн"
+    IDS_STRING98            " жбнѕ ќ—жћн «“ ’ЁЌе Ў—«Ќн »’ж—  Шѕ"
+    IDS_STRING99            " жбнѕ ќ—жћн »—«”«”  дўнг«  г‘ќ’ ‘ѕе ѕ— Бдћ—е Ђќ—жћн »’ж—  Шѕїю"
+    IDS_STRING100           " џнн—  дўнг«  Н«Б ж Н«БР—"
+    IDS_STRING101           "Н«Б ’ЁЌе Ў—«Ќн"
+    IDS_STRING102           "ќ—жћ «“ »—д«ге"
+    IDS_STRING103           "Б«Ш Ш—ѕд ќ«де е«н «д ќ«» ‘ѕе ж ШБн Ш—ѕд ¬де« »е Ќ«Ёўе гжё  (ШбнБ »ж—ѕ)ю"
+    IDS_STRING104           "ШБн Ш—ѕд ќ«де е«н «д ќ«» ‘ѕе »е Ќ«Ёўе гжё  (ШбнБ »ж—ѕ)ю"
+    IDS_STRING105           "ѕ—ћ ќ«де е«н ШБн ‘ѕе »е Ќ«Ёўе гжё  ѕ— ’ЁЌе Ў—«Ќн ѕ— гЌб ћ«—н гШ«д дг«"
+    IDS_STRING106           "Б«Ш Ш—ѕд д«Ќне «д ќ«» ‘ѕе »— —жн ’ЁЌе Ў—«Ќн"
+    IDS_STRING107           "дг«н‘ »ќ‘ ЂШ «»ќ«де Ш«—«Ш —їю"
+    IDS_STRING108           "дг«н‘ »ќ‘ Ђг»ѕб г дїю"
+    IDS_STRING109           "дг«н‘ Бдћ—е ЂБн‘ дг«н‘  ’жн—н ’ЁЌе Ў—«Ќнїю"
+    IDS_STRING110           "дг«н‘ н« Џѕг дг«н‘ дж«—е«н «»“«—"
+    IDS_STRING111           "гЌ жн«  Ш «»ќ«де Ш«—«Ш — —« ѕж»«—е «“ ѕн”Ш бжѕ гн Шдѕ"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING112           "дг«н‘ дж«— «»“«— ЂЏгжгнї Ше Ќ«жн Ё—«гнд Џгжгн Ш«— ѕ— »—д«ге «” "
+    IDS_STRING113           "дг«н‘ дж«— «»“«— Ђж—жѕн ж ќ—жћнї Ше Ќ«жн Ё—«гнд ж—жѕн ж ќ—жћн «” "
+    IDS_STRING114           "«д ќ«» Шб ќ«де е«н ’ЁЌе Ў—«Ќн"
+    IDS_STRING115           "Б«Ш Ш—ѕд Шб ’ЁЌе Ў—«Ќн"
+    IDS_STRING116           "«Р— ќ«де «д ќ«» ‘ѕе —ж‘д »«‘ѕ ¬д —« ќ«гж‘ Ш—ѕе ж ѕ— џн— «нд’ж—  ¬д —« —ж‘д гн Шдѕ"
+    IDS_STRING117           "ѕ” ж—«  Н—ќ«дѕд Шб ’ЁЌе Ў—«Ќн"
+    IDS_STRING118           "ѕ” ж—«  ‘нЁ  ег—«е »« Б«Ш Ш—ѕд ќ«де е«н ’ЁЌе Ў—«Ќн"
+    IDS_STRING119           "ѕ” ж—«  ‘нЁ  Н—ќ‘н ќ«де е«н ’ЁЌе Ў—«Ќн"
+    IDS_STRING120           "ѕ” ж—«  ‘нЁ  Н—ќ‘н д«Ќне «д ќ«» ‘ѕе »— —жн ’ЁЌе Ў—«Ќн"
+    IDS_STRING121           "«нћ«ѕ Ш«—«Ш — «“ д«Ќне «д ќ«» ‘ѕе »— —жн ’ЁЌе Ў—«Ќн ж –ќн—е ¬д ѕ— Ш «»ќ«де Ш«—«Ш —"
+    IDS_STRING122           "ж«—ѕ дгжѕд Ё«нб е«н  ’жн—н »е ’ЁЌе Ў—«Ќн"
+    IDS_STRING123           " џнн—  дўнг«  ’ЁЌе Ў—«Ќн («дѕ«“е° —дР ж ...)ю"
+    IDS_STRING124           "Н—ќ«дѕд ’ЁЌе Ў—«Ќн »е «дѕ«“е 90 ѕ—ће ѕ— ће  Џё—»е е«н ”«Џ "
+    IDS_STRING125           "Н—ќ«дѕд ’ЁЌе Ў—«Ќн »е «дѕ«“е 90 ѕ—ће ѕ— ќб«Ё ће  Џё—»е е«н ”«Џ "
+    IDS_STRING126           "Н—ќ«дѕд ¬нде «н «Ёён ’ЁЌе Ў—«Ќн"
+    IDS_STRING127           "Н—ќ«дѕд ¬нде «н Џгжѕн ’ЁЌе Ў—«Ќн"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING128           "‘нЁ  ѕ«ѕд ’ЁЌе »е —«”  ѕ— гЌб гШ«д дг« ег—«е »« Б«Ш Ш—ѕд ќ«де е«н ‘нЁ  ѕ«ѕе ‘ѕе"
+    IDS_STRING129           "‘нЁ  ѕ«ѕд ’ЁЌе »е НБ ѕ— гЌб гШ«д дг« ег—«е »« Б«Ш Ш—ѕд ќ«де е«н ‘нЁ  ѕ«ѕе ‘ѕе"
+    IDS_STRING130           "‘нЁ  ѕ«ѕд Шб ’ЁЌе Ў—«Ќн »е ”г  —«”  »’ж—  Н—ќ‘н"
+    IDS_STRING131           "‘нЁ  ѕ«ѕд Шб ’ЁЌе Ў—«Ќн »е ”г  НБ »’ж—  Н—ќ‘н"
+    IDS_STRING132           "‘нЁ  ѕ«ѕд Шб ’ЁЌе Ў—«Ќн »е ”г  »«б« »’ж—  Н—ќ‘н"
+    IDS_STRING133           "‘нЁ  ѕ«ѕд Шб ’ЁЌе Ў—«Ќн »е ”г  Б«ннд »’ж—  Н—ќ‘н"
+    IDS_STRING134           "‘нЁ  ѕ«ѕд д«Ќне «д ќ«» ‘ѕе »— —жн ’ЁЌе Ў—«Ќн »е ”г  —«”  »’ж—  Н—ќ‘н"
+    IDS_STRING135           "‘нЁ  ѕ«ѕд д«Ќне «д ќ«» ‘ѕе »— —жн ’ЁЌе Ў—«Ќн »е ”г  НБ »’ж—  Н—ќ‘н"
+    IDS_STRING136           "‘нЁ  ѕ«ѕд д«Ќне «д ќ«» ‘ѕе »— —жн ’ЁЌе Ў—«Ќн »е ”г  »«б« »’ж—  Н—ќ‘н"
+    IDS_STRING137           "‘нЁ  ѕ«ѕд д«Ќне «д ќ«» ‘ѕе »— —жн ’ЁЌе Ў—«Ќн »е ”г  Б«ннд »’ж—  Н—ќ‘н"
+    IDS_STRING138           "”«“г«дѕен ж гѕн—н  Ёжд  е« ж Ш«—«Ш —е«н Ш «»ќ«де Ш«—«Ш —"
+    IDS_STRING139           "«»“«—н »—«н ‘»не ”«“н ’ЁЌе Ў—«Ќн »’ж—   «»бжн —ж«д"
+    IDS_STRING140           "«»“«—н »—«н Ў—«Ќн Ш«—«Ш —е«н Ш «»ќ«де Ш«—«Ш —"
+    IDS_STRING141           " џнн— “»«д »—д«ге"
+    IDS_STRING142           " џнн—  дўнг«  »—д«ге"
+    IDS_STRING143           "дг«н‘ —«едг«н »—д«ге »е “»«д  Џннд ‘ѕе"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING144           "дШ« н »—«н «” Ё«ѕе е—Не »е — ж Ш«—« — «“ д—г «Ё“«—"
+    IDS_STRING145           "дг«н‘ «Ўб«Џ«  »—д«ге° ‘г«—е д”ќе ж Ќёжё  ШЋн— ж  ж“нЏ д—г «Ё“«—"
+    IDS_STRING146           "New Design"
+    IDS_STRING147           "Open Design"
+    IDS_STRING148           "Save Design"
+    IDS_STRING149           "Print Design"
+    IDS_STRING150           "Cut"
+    IDS_STRING151           "Copy"
+    IDS_STRING152           "Paste"
+    IDS_STRING153           "Delete"
+    IDS_STRING154           "Shift At Cursor Left"
+    IDS_STRING155           "Shift At Cursor Right"
+    IDS_STRING156           "Rotate Left"
+    IDS_STRING157           "Rotate Right"
+    IDS_STRING158           "Rotate Up"
+    IDS_STRING159           "Rotate Down"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING160           "Flip Horizontal"
+    IDS_STRING161           "Flip Vertical"
+    IDS_STRING162           "Rotate Page 90∞ CW"
+    IDS_STRING163           "Rotate Page 90∞ CCW"
+    IDS_STRING167           "Import Picture"
+    IDS_STRING168           "Export Design"
+    IDS_STRING169           "Quick Export"
+    IDS_STRING170           "Open/Close"
+    IDS_STRING171           "Insert selected character at the current cursor location"
+    IDS_STRING178           "Drag & Drop characters onto the design"
+    IDS_STRING172           "Design Height"
+    IDS_STRING173           "Design Width"
+    IDS_STRING174           "Space between cells"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING175           "Design Picture Preview"
+    IDS_STRING176           "Add to favorite fonts"
+    IDS_STRING177           "Remove from favorite fonts"
+    IDS_STRING180           "Ё«’бе »нд ќ«де е«н ’ЁЌе Ў—«Ќн:ю"
+    IDS_STRING182           "—«едг«н ќб«’е ж ”—нЏ"
+    IDS_STRING183           "дг«н‘ нШ —«едг«нн гќ ’— »—«н ‘—жЏ Ш«— »« »—д«ге"
+    IDS_STRING184           "дж«— ж÷Џн "
+    IDS_STRING185           "дг«н‘ н« Џѕг дг«н‘ дж«— ж÷Џн "
+    IDS_STRING188           "“»«д Бн‘ Ё—÷ —«едг«...ю"
+    IDS_STRING189           " Џннд “»«д Бн‘ Ё—÷ —«едг«н »—д«ге"
+    IDS_STRING205           "Organize"
+    IDS_STRING220           "Џгжгн"
+    IDS_STRING221           "Ў—«Ќн"
+    IDS_STRING222           "ж—жѕн ж ќ—жћн"
+    IDS_STRING223           "Ў—«Ќн"
+    IDS_STRING224           "дг«н‘ дж«— «»“«— ЂЎ—«Ќнї Ше Ќ«жн Ё—«гнд жн—«н‘н «’бн ’ЁЌе Ў—«Ќн «” "
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING4528          "Close and refresh Character Library"
+    IDS_STRING263           "гн  ж«днѕ »« «” Ё«ѕе «“ ѕШге е«н —«”  ж НБ г«ж”° Ш«—«Ш —е« —« »е ѕ«ќб Р—же е«н Ш«—«Ш —н Ш‘нѕе ж —е« Шднѕ.ю"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING211           "д”»  ѕ«ѕд д«г Ё«нб »е Ш«—«Ш —е«"
+    IDS_STRING85            "Ш«—«Ш — гж—ѕдў— —« ѕ— ” жд НБ ж«—ѕ дгжѕе ж д«г Ё«нб г—»жЎ »е ¬д —« ѕ— ” жд —«”  ж«—ѕ дг«ннѕ. “г«дн Ше «“ «нд Ш«—«Ш — «” Ё«ѕе ‘жѕ° д«г Ё«нб Ш«—«Ш — гж—ѕ «” Ё«ѕе° д«г  Џннд ‘ѕе ѕ— «ндћ« ќж«еѕ »жѕ. «нд ё«»бн  ггШд «”  »—«н Ш«—«Ш —е«н Ё«—”н ѕ—”  Џгб дШдѕ.  де« »—«н д«гР–«—н Ш«—«Ш —е«н ќ«’ «“ «нд ё”г  «” Ё«ѕе Шднѕ.ю"
+    IDS_STRING502           "Ш«—«Ш —:"
+    IDS_STRING503           "д«г Ё«нб Ш«—«Ш —:"
+    IDS_STRING504           "Ќ–Ё"
+    IDS_STRING506           " √ннѕ"
+    IDS_STRING507           "бџж"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING165           "«Ё“жѕд »е бн” "
+    IDS_STRING6251          "»—д«ге ё«ѕ— »е –ќн—е  дўнг«  «нд ё”г  ѕ— Ё«нб дн” .ю"
+    IDS_STRING6252          "жн—«н‘ бн” "
+    IDS_STRING166           "»—«н «Ё“жѕд нШ Ш«—«Ш — ћѕнѕ° бЎЁ«р нШ Ш«—«Ш — ж«—ѕ дг«ннѕ.ю"
+    IDS_STRING6255          "бЎЁ«р »—«н «нд Ш«—«Ш — нШ д«г Ё«нб  Џннд дг«ннѕ.ю"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING181           "–ќн—е"
+    IDS_STRING508           "бџж"
+    IDS_STRING509           "»—д«ге ё«ѕ— »е »«“Ш—ѕд Ё«нб ""%s"" дн” .ю"
+    IDS_STRING510           "едР«г ќж«дѕд  дўнг«  ќЎ«нн Бн‘ ¬гѕ.  дўнг«  Бн‘ Ё—÷ «” Ё«ѕе гн ‘ждѕ.ю"
+    IDS_STRING511           "гШ«д дг« ѕ— ”г  —«”   —нд ќ«де ’ЁЌе Ў—«Ќн «” .ю"
+    IDS_STRING512           "гШ«д дг« ѕ— ”г  НБ  —нд ќ«де ’ЁЌе Ў—«Ќн «” .ю"
+    IDS_STRING513           "енН Р—же Ш«—«Ш —н «д ќ«» д‘ѕе «” .ю"
+    IDS_STRING514           "енН Ш«—«Ш —н ѕ— Р—же е«н Ш«—«Ш —н «д ќ«» ‘ѕе н«Ё  д‘ѕ.ю"
+    IDS_STRING515           "Ё«нб Ш«—«Ш — '%s' ѕ— Р—же е«н Ш«—«Ш —н «д ќ«» ‘ѕе н«Ё  д‘ѕ.ю"
+    IDS_STRING516           "бЎЁ«р г д ќжѕ —« »—«н  »ѕнб ж«—ѕ дг«ннѕ.ю"
+    IDS_STRING517           "¬н«  џнн—«  Ў—«Ќн ћ«—н –ќн—е ‘ждѕњ"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING518           "»—д«ге ё«ѕ— »е ‘д«”«нн Ё—г  Ё«нб %s дн” . %s ¬н« Ё«нб »«“ ‘жѕњю"
+    IDS_STRING519           "Ё«нб %s «“ ё»б гжћжѕ «” . %s ¬н« Ё«нб ћѕнѕ »« Ё«нб гжћжѕ ћ«нР“нд ‘жѕњю"
+    IDS_STRING520           "¬н«  џнн—«  Ў—«Ќн ћ«—н –ќн—е ‘ждѕњю"
+    IDS_STRING521           "»—д«ге Ў—«Ќ Ш«—«Ш — (%s) н«Ё  д‘ѕ.ю"
+    IDS_STRING522           "Unable to read the program registry settings. Default settings loaded."
+    IDS_STRING523           "Configuration file is corrupted. Default configuration loaded."
+    IDS_STRING524           "¬н«  џнн—«  Ў—«Ќн ћ«—н –ќн—е ‘ждѕњю"
+    IDS_STRING525           "»—д«ге ё«ѕ— »е –ќн—е  дўнг«  ѕ— —ћн” —н дн” .ю"
+    IDS_STRING526           "д«Ќне «д ќ«»н: %d ѕ— %d"
+    IDS_STRING527           " "
+    IDS_STRING528           "бЎЁ«р г д ќжѕ —« »—«н  »ѕнб ж«—ѕ дг«ннѕ.ю"
+    IDS_STRING529           "»—д«ге ё«ѕ— »е –ќн—е ќ—жћн ѕ— Ё«нб “н— дн” . Џгбн«  ќ—жћн ”—нЏ »« ќЎ« гж«ће ‘ѕ:ю%s"
+    IDS_STRING530           "енН  дўнг« н »—«н Ё—г«д ќ—жћн ”—нЏ  Џннд д‘ѕе «” . гн  ж«днѕ «нд  дўнг«  —« ѕ— Бдћ—е ""ќ—жћн »’ж—  Шѕ""  Џннд Шднѕ.ю"
+    IDS_STRING57            "{—«едг« гжћжѕ дн” }"
+    IDS_STRING201           "«”«гн ќ«’...ю"
+    IDS_STRING202           " √ннѕ"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING186           "English Help|—«едг«н «дРбн”н|Farsi Help|—«едг«н Ё«—”н|German Help|—«едг«н ¬бг«дн|French Help|—«едг«н Ё—«д”жн"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING187           "Ё«нб —«едг«н »—д«ге ѕ— г”н— г—»жЎе н«Ё  д‘ѕ.ю"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING6007          "“»«д Бн‘ Ё—÷ —«едг«"
+    IDS_STRING190           "“»«д Бн‘ Ё—÷ дг«н‘ —«едг«н »—д«ге —« «д ќ«» Шднѕ:ю"
+    IDS_STRING7002          " √ннѕ"
+    IDS_STRING7003          "бџж"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING191           "Ё«нб %s «“ ё»б гжћжѕ «” . ¬н« Ё«нб ћѕнѕ »« Ё«нб гжћжѕ ћ«нР“нд ‘жѕњю"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING192           "ѕ— Ќ«б  »ѕнб  ’жн—...ю"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING2752          "»—д«ге ё«ѕ— »е »«“Ш—ѕд «нд Ё«нб дн” .ю"
+    IDS_STRING2519          "ШбнБ »ж—ѕ Ќ«жн ѕ«ѕе е«н  ’жн—н дн” .ю"
+    IDS_STRING2754          "«гШ«д Р—Ё д «Ўб«Џ«  «“ ШбнБ »ж—ѕ жћжѕ дѕ«—ѕ.ю"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING193           "Ё«нб ќ—жћн"
+    IDS_STRING3252          "«д ќ«» »—д«ге ќ«—ћн"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING194           "—дР ќ«де е«н —ж‘д дгн  ж«дѕ »« —дР ќ«де е«н ќ«гж‘ нШ”«д »«‘ѕ.ю"
+    IDS_STRING3752          "Џѕѕ ж«—ѕ ‘ѕе »—«н Џ—÷° д«гЏ »— «” . бЎЁ«р нШ Џѕѕ ’ЌнЌ ж«—ѕ дг«ннѕ.ю"
+    IDS_STRING3753          "Џѕѕ ж«—ѕ ‘ѕе »—«н «— Ё«Џ° д«гЏ »— «” . бЎЁ«р нШ Џѕѕ ’ЌнЌ ж«—ѕ дг«ннѕ.ю"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING195           "Ё«нб %s «“ ё»б гжћжѕ «” . ¬н« Ё«нб ћѕнѕ »« Ё«нб гжћжѕ ћ«нР“нд ‘жѕњю"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING196           "едР«г ќж«дѕд Ё«нб ""%s"" ќЎ«нн Бн‘ ¬гѕ.ю"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING4752          "«нд Р—же Ш«—«Ш —н ‘«гб Ш«—«Ш — (н« «Ќ г«б«р Ё«нб е«н ѕнР—н) «”  ж дгн  ж«д ¬д —« Ќ–Ё Ш—ѕ.ю"
+    IDS_STRING4753          "¬н« Р—же ""%s"" Ќ–Ё ‘жѕњ"
+    IDS_STRING4754          "»—д«ге ё«ѕ— »е «нћ«ѕ Р—же ""%s"" дн” .ю"
+    IDS_STRING4755          "«нћ«ѕ “н—Р—же Ш«—«Ш —н"
+    IDS_STRING4756          "д«г “н—Р—же —« ж«—ѕ дг«ннѕ:ю"
+    IDS_STRING4757          "«нћ«ѕ ”—Р—же Ш«—«Ш —н"
+    IDS_STRING4758          "д«г ”—Р—же Ш«—«Ш —н —« ж«—ѕ дг«ннѕ:ю"
+    IDS_STRING4759          "»—д«ге ё«ѕ— »е «нћ«ѕ Р—же ""%s"" дн” .ю"
+    IDS_STRING4760          " џнн— д«г Р—же"
+    IDS_STRING4761          "д«г ћѕнѕ —« ж«—ѕ дг«ннѕ:ю"
+    IDS_STRING4762          " џнн— д«г Р—же ""%s"" »е ""%s"" ггШд дн” .ю"
+    IDS_STRING4763          "¬н« Ш«—«Ш — ""%s"" Ќ–Ё ‘жѕњ"
+    IDS_STRING4764          "»—д«ге ё«ѕ— »е Ќ–Ё Ш«—«Ш — ""%s"" дн” .ю"
+    IDS_STRING4765          "Р—же ћѕнѕ »« Р—же ё»бн нШ”«д «” .ю"
+    IDS_STRING4766          "Р—же Ш«—«Ш —н гё’ѕ ‘«гб Ш«—«Ш —н »« д«г ""%s"" «” .ю"
+    IDS_STRING4767          "«гШ«д «д ё«б Ш«—«Ш — ""%s"" »е Р—же ћѕнѕ жћжѕ дѕ«—ѕ.ю"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING4768          "Р—же Ш«—«Ш —н гё’ѕ ‘«гб Ш«—«Ш —н »« д«г ""%s"" «” .ю"
+    IDS_STRING4769          "«гШ«д ШБн Ш«—«Ш — ""%s"" »е Р—же ћѕнѕ жћжѕ дѕ«—ѕ.ю"
+    IDS_STRING4770          "ШБн Ш—ѕд Ш«—«Ш — ѕ— '%s'ю"
+    IDS_STRING4771          "«д ё«б Ш«—«Ш — »е '%s'ю"
+    IDS_STRING4772          " џнн—д«г Ш«—«Ш —"
+    IDS_STRING4773          "д«г ћѕнѕ Ш«—«Ш — —« ж«—ѕ дг«ннѕ:ю"
+    IDS_STRING4774          "«гШ«д  џнн— д«г Ш«—«Ш — ""%s"" жћжѕ дѕ«—ѕ.ю"
+    IDS_STRING215           "д«г ќ«’"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING197           "г”н— Ш «»ќ«де Ш«—«Ш — —« «д ќ«» Шднѕ:ю"
+    IDS_STRING5752          "Џѕѕ ж«—ѕ ‘ѕе »—«н Џ—÷° д«гЏ »— «” . бЎЁ«р нШ Џѕѕ ’ЌнЌ ж«—ѕ дг«ннѕ.ю"
+    IDS_STRING5753          "Џѕѕ ж«—ѕ ‘ѕе »—«н «— Ё«Џ° д«гЏ »— «” . бЎЁ«р нШ Џѕѕ ’ЌнЌ ж«—ѕ дг«ннѕ.ю"
+    IDS_STRING5754          "’ЁЌе Ў—«Ќн Ќѕ«ёб »«нѕ ‘«гб ѕж ќ«де »«‘ѕ.ю"
+    IDS_STRING5755          "Шбне  дўнг«  »—д«ге »е гё«ѕн— Бн‘ Ё—÷  дўнг гн ‘ждѕ.ю %s¬н« «нд Ш«— «дћ«г ‘жѕњ"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING198           "Б«Ш Ш—ѕд ’ЁЌе Ў—«Ќн"
+    IDS_STRING40002         "–ќн—е Ш«—«Ш —...ю"
+    IDS_STRING40003         "»«“Ш—ѕд Ш«—«Ш —...ю"
+    IDS_STRING40004         "Џ—÷:"
+    IDS_STRING40005         "«— Ё«Џ:"
+    IDS_STRING40006         "—дР ќ«де е«н —ж‘д:"
+    IDS_STRING40007         "—дР ќ«де е«н ќ«гж‘:"
+    IDS_STRING40008         "—дР ќЎжЎ ћѕ« Шддѕе:"
+    IDS_STRING40009         "»“—Рдг«нн:"
+    IDS_STRING40010         "Ё«’бе »нд ќ«де е«н ’ЁЌе Ў—«Ќн:ю"
+    IDS_STRING40011         "ќЎжЎ ’ЁЌе"
+    IDS_STRING40012         "дг«н‘ гШ«д дг«"
+    IDS_STRING40013         "Space between cells"
+    IDS_STRING40014         "Cut"
+    IDS_STRING40015         "Copy"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING40016         "Paste"
+    IDS_STRING40017         "Delete"
+    IDS_STRING40018         "Shift At Cursor Left"
+    IDS_STRING40019         "Shift At Cursor Right"
+    IDS_STRING40020         "Rotate Left"
+    IDS_STRING40021         "Rotate Right"
+    IDS_STRING40022         "Rotate Up"
+    IDS_STRING40023         "Rotate Down"
+    IDS_STRING40024         "Flip Horizontal"
+    IDS_STRING40025         "Flip Vertical"
+    IDS_STRING40026         "Rotate Page 90∞ CW"
+    IDS_STRING40027         "Rotate Page 90∞ CCW"
+    IDS_STRING232           "жн—«н‘ ж Ў—«Ќн"
+    IDS_STRING236           "жн—«н‘ ж Ў—«Ќн"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING199           "едР«г ќж«дѕд  дўнг«  ќЎ«нн Бн‘ ¬гѕ.  дўнг«  Бн‘ Ё—÷ «” Ё«ѕе гн ‘ждѕ.ю"
+    IDS_STRING40502         "¬н« ’ЁЌе Ў—«Ќн Б«Ш ‘жѕњ"
+    IDS_STRING40503         "—дР ќ«де е«н —ж‘д дгн  ж«дѕ »« —дР ќ«де е«н ќ«гж‘ нШ”«д »«‘ѕ.ю"
+    IDS_STRING40504         "»—д«ге ё«ѕ— »е –ќн—е Ш«—«Ш — дн” .ю"
+    IDS_STRING40505         "¬н« Ш«—«Ш — ћ«—н –ќн—е ‘жѕњ"
+    IDS_STRING40506         "»—д«ге ё«ѕ— »е »«“Ш—ѕд Ё«нб ""%s"" дн” .ю"
+    IDS_STRING40507         "гШ«д дг« ѕ— ”г  НБ  —нд ќ«де ’ЁЌе Ў—«Ќн «” .ю"
+    IDS_STRING40508         "гШ«д дг« ѕ— ”г  —«”   —нд ќ«де ’ЁЌе Ў—«Ќн «” .ю"
+    IDS_STRING200           "»«“ Ш—ѕд Ш«—«Ш —"
+    IDS_STRING40510         "бџж"
+    IDS_STRING40511         "–ќн—е"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING40512         "бџж"
+    IDS_STRING40513         "едР«г –ќн—е Ш«—«Ш — ќЎ«нн Бн‘ ¬гѕ. бЎЁ«р ѕж»«—е ”Џн Шднѕ.ю"
+    IDS_STRING203           "«”«гн ќ«’...ю"
+    IDS_STRING40515         " √ннѕ"
+    IDS_STRING40516         "Р—же е«н Ш«—«Ш —"
+    IDS_STRING40517         "Ш«—«Ш —е«н Р—же"
+    IDS_STRING204           "»—д«ге ё«ѕ— »е –ќн—е  дўнг«  ѕ— —ћн” —н дн” .ю"
+    IDS_STRING209           "«”«гн жнОе Ш«—»—...ю"
+    IDS_STRING212           "–ќн—е Ш«—«Ш —"
+    IDS_STRING40521         "»«“Ш—ѕд Ш«—«Ш —"
+    IDS_STRING213           "«д ќ«» Ш«—«Ш —"
+    IDS_STRING40523         "«”«гн жнОе Ш«—»—"
+    IDS_STRING218           "»бе"
+    IDS_STRING40525         "ќн—"
+    IDS_STRING40526         "ёЎЏ Џгбн« "
+    IDS_STRING40527         "”Џн гћѕѕ"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING531           "Р—же е«н Ш«—«Ш —"
+    IDS_STRING532           "Ш«—«Ш —е«н Р—же"
+    IDS_STRING2755          "Ё«нб%sгжћжѕ дн” .ю"
+    IDS_STRING208           "«”«гн жнОе Ш«—»—...ю"
+    IDS_STRING210           " √ннѕ"
+    IDS_STRING535           "бџж"
+    IDS_STRING40522         "–ќн—е Ш«—«Ш —"
+    IDS_STRING214           "«д ќ«» Ш«—«Ш —"
+    IDS_STRING536           "«”«гн жнОе Ш«—»—"
+    IDS_STRING217           "»бе"
+    IDS_STRING538           "ќн—"
+    IDS_STRING539           "ёЎЏ Џгбн« "
+    IDS_STRING540           "”Џн гћѕѕ"
+    IDS_STRING541           "&Ignore"
+    IDS_STRING542           "&All"
+    IDS_STRING543           "N&o to All"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING216           "—ѕнЁ"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING544           "Yes to &All"
+    IDS_STRING545           "—«едг«"
+    IDS_STRING241           "Undo"
+    IDS_STRING547           "Can't Undo"
+    IDS_STRING548           "Redo"
+    IDS_STRING549           "Can't Redo"
+    IDS_STRING248           "Ё«нб %s «“ ё»б гжћжѕ «” . %s¬н« Ё«нб ћѕнѕ »« Ё«нб гжћжѕ ћ«нР“нд ‘жѕњю"
+    IDS_STRING551           "бЎЁ«р д«г Ш«—«Ш — —« ж«—ѕ дг«ннѕ.ю"
+    IDS_STRING552           "бЎЁ«р гЌб –ќн—е Ш«—«Ш — —«  Џннд дг«ннѕ.ю"
+    IDS_STRING251           "»—д«ге ё«ѕ— »е –ќн—е Ў—«Ќн ѕ— Ё«нб “н— дн” :ю%s"
+    IDS_STRING554           "Ё«нб ѕ— Ќ«б  ЁёЎ-ќж«дѕдн «”  ж дгн  ж«д ѕ— ¬д –ќн—е Ш—ѕ:ю%s"
+    IDS_STRING252           "»—д«ге ё«ѕ— »е –ќн—е ѕ— Ё«нб “н— дн” :ю%s"
+    IDS_STRING255           "ѕ— Ќнд Џгбн«  Н«Б ќЎ«нн —ќ ѕ«ѕ. бЎЁ«р ѕж»«—е Џгбн«  —«  Ш—«— Шднѕ ж ѕ— ’ж—  »—ж“ ќЎ«° Н«БР— ѕнР—н —« »—«н Н«Б «д ќ«» Шднѕ.ю"
+    IDS_STRING256           "ѕ— Ќ«б Н«Б...ю"
+    IDS_STRING261           "»—д«ге ё«ѕ— »е –ќн—е Ш«—«Ш — дн” .ю"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING40528         "&Ignore"
+    IDS_STRING40529         "&All"
+    IDS_STRING40530         "N&o to All"
+    IDS_STRING40531         "Yes to &All"
+    IDS_STRING40532         "—«едг«"
+    IDS_STRING242           "Undo"
+    IDS_STRING40534         "Can't Undo"
+    IDS_STRING40535         "Redo"
+    IDS_STRING40536         "Can't Redo"
+    IDS_STRING249           "Ё«нб %s «“ ё»б гжћжѕ «” . %s ¬н« Ё«нб ћѕнѕ »« Ё«нб гжћжѕ ћ«нР“нд ‘жѕњю"
+    IDS_STRING40538         "бЎЁ«р д«г Ш«—«Ш — —« ж«—ѕ дг«ннѕ.ю"
+    IDS_STRING40539         "бЎЁ«р гЌб –ќн—е Ш«—«Ш — —«  Џннд дг«ннѕ.ю"
+    IDS_STRING250           "ѕ— едР«г ќж«дѕд Ё«нб Ш«—«Ш — “н— ќЎ«нн Бн‘ ¬гѕ:%s"
+    IDS_STRING259           "Ё«нб ѕ— Ќ«б  ЁёЎ-ќж«дѕдн «”  ж дгн  ж«д ѕ— ¬д –ќн—е Ш—ѕ:ю%s"
+    IDS_STRING260           "Ё«нб%sгжћжѕ дн” .ю"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING225           "ќ—жћ «“ Ќ«б   г«г ’ЁЌе"
+    IDS_STRING226           "Switch Full Screen Mode"
+    IDS_STRING7503          "Close Full Screen"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING7504          " "
+    IDS_STRING228           "–ќн—е ж жн—«н‘"
+    IDS_STRING7506          "Ў—«Ќн"
+    IDS_STRING7507          "Ќ«б   г«г ’ЁЌе"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING7505          "ж» ”«н  LED Font Generatorю"
+    IDS_STRING227           "ж» ”«н  д—г «Ё“«— —« ѕ— г—ж—Р— «нд —д  »«“ гн Шдѕ (« ’«б »е «нд —д )ю"
+    IDS_STRING229           "Clear All"
+    IDS_STRING7508          "Ќ«б   г«г ’ЁЌе (Full Screen)ю"
+    IDS_STRING230           "Бдћ—е —« »е «дѕ«“е  г«г ’ЁЌе »“—Р гн Шдѕ  « Ё÷«н Ш«—н »“—Р —н гжћжѕ »«‘ѕ"
+    IDS_STRING233           "Џгжгн"
+    IDS_STRING234           "Ў—«Ќн"
+    IDS_STRING235           "ж—жѕн ж ќ—жћн"
+    IDS_STRING5516          "бџж ¬ќ—нд  џнн— «Џг«б ‘ѕе (Undo)ю"
+    IDS_STRING238           "бџж ¬ќ—нд  џнн— «Џг«б ‘ѕе »— —жн ’ЁЌе Ў—«Ќн"
+    IDS_STRING239           "«Џг«б ѕж»«—е ¬ќ—нд  џнн— бџж ‘ѕе (Redo)ю"
+    IDS_STRING240           "«Џг«б ѕж»«—е ¬ќ—нд  џнн— бџж ‘ѕе »— —жн ’ЁЌе Ў—«Ќн"
+    IDS_STRING243           "Ш «»ќ«де Ш«—«Ш —"
+    IDS_STRING244           "г»ѕб г д"
+    IDS_STRING245           "г»ѕб Шѕ »е Ў—«Ќн"
+    IDS_STRING231           "жн—«н‘ Ш«—«Ш — «д ќ«» ‘ѕе ѕ— Ў—«Ќ Ш«—«Ш —...ю"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING246           "Ш«—«Ш — «д ќ«» ‘ѕе —« »—«н жн—«н‘ ѕ— »—д«ге Ў—«Ќ Ш«—«Ш — »«“ гн Шдѕ"
+    IDS_STRING254           " "
+    IDS_STRING253           "ѕ— Ќ«б бжѕ Ш «»ќ«де Ш«—«Ш — «“ ѕн”Ш...ю%sће  бџж Џгбн«  ѕШге бџж —« Ё‘«— ѕенѕ.ю"
+    IDS_STRING257           "Left-to-Right"
+    IDS_STRING258           "Right-to-Left"
+END
+
+#endif    // Farsi resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

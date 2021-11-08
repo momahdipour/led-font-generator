@@ -1,0 +1,1 @@
+You should compile and replace two versions of each standard unit, a version without any debug information (to the Lib directory), and another version compiled with debug information especially with 'Stack frames' compiler option enabled.

@@ -1,0 +1,9 @@
+Character,Character Name
+",",COMMA
+ ,SPACE
+:,COLON
+.,DOT
+*,MUL_SIGN
+/,SLASH
+\,BACK_SLASH
+"",""

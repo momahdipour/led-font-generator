@@ -1,0 +1,4 @@
+//All other images are attached to the project from the EnglishImages.rc file from the English language folder (although the LANGUAGE_FLAG resource from the EnglishImages.rc is not used, it is included any way)
+//Images used in the Language.pas unit (specific to the LCDDesigner project)
+INTERNAL_LANG_FLAG Bitmap "InternalLangFlag.bmp"
+INTERNAL_LANG_NO_LANG_FLAG Bitmap "No Language Flag.bmp"

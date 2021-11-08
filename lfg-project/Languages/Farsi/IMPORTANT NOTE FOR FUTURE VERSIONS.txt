@@ -1,0 +1,1 @@
+Use LRO/RLO and LRE/RLE unicode control characters to control the direction of texts composed from both english and farsi texts

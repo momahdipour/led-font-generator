@@ -1,0 +1,866 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Farsi resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_FAR)
+#ifdef _WIN32
+LANGUAGE LANG_FARSI, SUBLANG_DEFAULT
+#pragma code_page(1256)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE 
+BEGIN
+    IDS_FileMenuItem        "File"
+    IDS_EditMenuItem        "Edit"
+    IDS_ViewMenuItem        "View"
+    IDS_LCDMenuItem         "Design"
+    IDS_ToolsMenuItem       "Tools"
+    IDS_HelpMenuItem        "Help"
+    7                       "&New Design..."
+    IDS_STRING8             "&Open Design..."
+    IDS_STRING9             "&Save Design"
+    10                      "Save Design &As..."
+    IDS_STRING11            "&Import Picture..."
+    IDS_STRING12            "&Export Design..."
+    IDS_STRING13            "&Quick Export"
+    IDS_STRING14            "Print Set&up..."
+    IDS_STRING15            "&Print..."
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING16            "E&xit"
+    IDS_STRING17            "Cu&t"
+    IDS_STRING18            "&Copy"
+    IDS_STRING19            "&Paste"
+    IDS_STRING20            "Cle&ar"
+    IDS_STRING21            "&Character Library"
+    IDS_STRING22            "&Text to LCD"
+    IDS_STRING23            "Design &Picture Preview"
+    IDS_STRING24            "&Toolbars"
+    IDS_STRING25            "&Refresh Character Library"
+    IDS_STRING26            "General"
+    IDS_STRING27            "Import && Export"
+    IDS_STRING28            "Select A&ll"
+    IDS_STRING29            "Cle&ar All"
+    IDS_STRING30            "To&ggle Selection"
+    IDS_STRING31            "&Rotate Page"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING32            "&Shift At Cursor"
+    IDS_STRING33            "R&otate All"
+    IDS_STRING34            "Ro&tate Selection"
+    IDS_STRING35            "&Create Character from Selection..."
+    IDS_STRING36            "&Import Picture..."
+    IDS_STRING37            "P&roperties..."
+    IDS_STRING38            "90° &CW"
+    IDS_STRING39            "90° CC&W"
+    IDS_STRING40            "Flip &Horizontal"
+    IDS_STRING41            "Flip &Vertical"
+    IDS_STRING42            "&Right"
+    IDS_STRING43            "&Left"
+    IDS_STRING44            "&Right"
+    IDS_STRING45            "&Left"
+    IDS_STRING46            "&Up"
+    IDS_STRING47            "&Down"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING48            "&Right"
+    IDS_STRING49            "&Left"
+    IDS_STRING50            "&Up"
+    IDS_STRING51            "&Down"
+    IDS_STRING52            "Character Library Or&ganizer..."
+    IDS_STRING53            "Character &Designer..."
+    IDS_STRING54            "Design &Animator..."
+    IDS_STRING55            "&Language..."
+    IDS_STRING56            "&Options..."
+    IDS_STRING58            "Tip of the day"
+    IDS_STRING59            "&About..."
+    IDS_STRING60            "Character Library"
+    IDS_STRING61            "Categories"
+    IDS_STRING62            "Characters"
+    IDS_STRING63            "Insert"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING64            "Z&oom:"
+    IDS_STRING65            "G&ridlines"
+    IDS_STRING66            "&Zoom:"
+    IDS_STRING67            "&Gridlines"
+    IDS_STRING68            "Te&xt:"
+    IDS_STRING69            "&Insert As Design"
+    IDS_STRING70            "I&nsert At Cursor"
+    IDS_STRING71            "Options"
+    IDS_STRING72            "&Adjust design width"
+    IDS_STRING73            "A&djust design height"
+    IDS_STRING74            "&Display error messages"
+    IDS_STRING75            "Character Source"
+    IDS_STRING76            "&System fonts"
+    IDS_STRING77            "&Character Library"
+    IDS_STRING78            "Se&ttings..."
+    IDS_STRING79            "Favorite Fonts"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING80            "&Font:"
+    IDS_STRING81            "Sample"
+    IDS_STRING82            "All Fonts"
+    IDS_STRING83            "F&ont:"
+    IDS_STRING84            "Sample"
+    IDS_LCDMenuItem2        "Open Design"
+    IDS_ToolsMenuItem2      "Save Design As"
+    IDS_STRING87            "Contains commands for working with design files"
+    IDS_STRING88            "Contains general edit commands"
+    IDS_STRING89            "Contains commands for manipulating the view"
+    IDS_STRING90            "Contains commands for manipulating and editing the design"
+    IDS_STRING91            "Contains miscellaneous tools and options"
+    IDS_STRING92            "Contains commands for displaying help"
+    IDS_STRING93            "Creates new design"
+    IDS_STRING94            "Opens a design file from the disk"
+    IDS_STRING95            "Saves changes to the current design"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING7004          "Code to LCD"
+    IDS_STRING86            "Code"
+    IDS_STRING1001          "Settings"
+    IDS_STRING1002          "&Autodetect code format"
+    IDS_STRING1003          "&Bin"
+    IDS_STRING1004          "&Hex"
+    IDS_STRING1005          "&Prefix:"
+    IDS_STRING1006          "&Suffix:"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING1007          "Preview"
+    IDS_STRING1008          "&Column by column order"
+    IDS_STRING1009          "&Zoom:"
+    IDS_STRING1010          "&Gridlines"
+    IDS_STRING1011          "&Insert As Design"
+    IDS_STRING1012          "Co&py"
+    IDS_STRING179           "Paste"
+    IDS_STRING1015          "Clear"
+    IDS_STRING206           "&Ignore these characters:"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING1017          "Error Log"
+    IDS_STRING1013          "&Close"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING1503          "Export Design"
+    IDS_STRING1502          "Basic Output"
+    IDS_STRING2002          "Output"
+    IDS_STRING2003          "&Only selection"
+    IDS_STRING2004          "Output Format"
+    IDS_STRING2005          "Output Order"
+    IDS_STRING2006          "&Binary"
+    IDS_STRING2007          "&Hexadecimal:"
+    IDS_STRING2008          "&Prefix:"
+    IDS_STRING2009          "&Suffix:"
+    IDS_STRING2010          "&NOT values"
+    IDS_STRING2011          "&Column by column"
+    IDS_STRING2012          "&Row by row"
+    IDS_STRING2013          "&Inverse order"
+    IDS_STRING2014          "Advanced Output"
+    IDS_STRING2015          "Column Separators"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING2016          "Row Separators"
+    IDS_STRING2017          "&Add a column separator after every"
+    IDS_STRING2018          "&Separator text:"
+    IDS_STRING2019          "&Break to new row every"
+    IDS_STRING2020          "A&dd a row separator after every"
+    IDS_STRING2021          "S&eparator text:"
+    IDS_STRING2022          "&Apply"
+    IDS_STRING2023          "A&utomatic apply"
+    IDS_STRING2024          "Quick Export"
+    IDS_STRING2025          "C&opy to clipboard"
+    IDS_STRING2026          "Sa&ve to file:"
+    IDS_STRING2027          "Co&py"
+    IDS_STRING2028          "&Save..."
+    IDS_STRING2029          "&Close"
+    IDS_STRING2030          "Export Design As"
+    IDS_STRING2031          "Choose Output File"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING2033          "Import Picture"
+    IDS_STRING2032          "Source"
+    IDS_STRING2502          "&Import Picture..."
+    IDS_STRING2503          "&Scale Picture:"
+    IDS_STRING2504          "Foreground Color"
+    IDS_STRING2505          "&Tolerance: "
+    IDS_STRING2506          "Preview"
+    IDS_STRING2507          "&Zoom:"
+    IDS_STRING2508          "&Gridlines"
+    IDS_STRING2509          "Options"
+    IDS_STRING2510          "I&nvert"
+    IDS_STRING2511          "In&sert At Cursor"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING2512          "Ins&ert As Design"
+    IDS_STRING2513          "&Close"
+    IDS_STRING2514          "Import Picture"
+    IDS_STRING164           "Select color tolerance:"
+    IDS_STRING207           "Import from Clipboard"
+    IDS_STRING2517          "&Only selection"
+    IDS_STRING2518          "Imports only the area selected on the preview."
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING2520          "Design Animator"
+    IDS_STRING2515          "&Zoom:"
+    IDS_STRING3002          "&Gridlines"
+    IDS_STRING3003          "Direction"
+    IDS_STRING3004          "&Left"
+    IDS_STRING3005          "&Right"
+    IDS_STRING3006          "Animation Speed"
+    IDS_STRING3007          "Slow"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING3008          "Fast"
+    IDS_STRING3009          "&Close"
+    IDS_STRING3010          "&Advanced"
+    IDS_STRING3011          "Advanced Options"
+    IDS_STRING3012          "&Output each frame to file"
+    IDS_STRING3013          "Output &file:"
+    IDS_STRING3014          "&Run external program after each frame and wait for it to finish"
+    IDS_STRING3015          "&External program:"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING3017          "Design Properties"
+    IDS_STRING3016          "Size"
+    IDS_STRING3502          "&Width:"
+    IDS_STRING3503          "&Height:"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING3504          "Display Options"
+    IDS_STRING3505          "&Filled cell color:"
+    IDS_STRING3506          "C&leared cell color:"
+    IDS_STRING3507          "&Gridlines color:"
+    IDS_STRING3508          "CTRL+Click &toggles cell color"
+    IDS_STRING3509          "&Advance cursor automatically when inserting chars from Character Library"
+    IDS_STRING3510          "Cursor"
+    IDS_STRING3511          "&Show cursor rectangle"
+    IDS_STRING3512          "C&ursor color:"
+    IDS_STRING3513          "Program &Options..."
+    IDS_STRING3514          "OK"
+    IDS_STRING3515          "Cancel"
+    IDS_STRING219           "Use soli&d colors"
+    IDS_STRING262           "Default &Colors"
+    IDS_STRING264           "Other Options"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING3517          "Design Picture Preview"
+    IDS_STRING3516          "&Save As Picture..."
+    IDS_STRING4002          "Save Design As Picture"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING4004          "Character Library Organizer"
+    IDS_STRING4003          "New &Main Category..."
+    IDS_STRING4502          "New &Subcategory..."
+    IDS_STRING4503          "&Special Name..."
+    IDS_STRING4504          "&Custom Name..."
+    IDS_STRING4505          "&Copy Here"
+    IDS_STRING4506          "&Move Here"
+    IDS_STRING4507          "C&ancel"
+    IDS_STRING4508          "&New Category"
+    IDS_STRING4509          "&Rename"
+    IDS_STRING4510          "&Delete"
+    IDS_STRING4511          "R&ename"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING4512          "De&lete"
+    IDS_STRING4513          "&Move To >>"
+    IDS_STRING4514          "Co&py To >>"
+    IDS_STRING4515          "Preview"
+    IDS_STRING4516          "&Show preview"
+    IDS_STRING4517          "&Zoom:"
+    IDS_STRING4518          "&Gridlines"
+    IDS_STRING4519          "&Close"
+    IDS_STRING1016          "Create new category"
+    IDS_STRING4521          "Rename selected category"
+    IDS_STRING4522          "Delete an empty category"
+    IDS_STRING4523          "Rename selected character"
+    IDS_STRING4524          "Delete selected character"
+    IDS_STRING4527          "Drag & Drop characters here"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING4525          "New Design"
+    IDS_STRING4520          "Size"
+    IDS_STRING5002          "&Width:"
+    IDS_STRING5003          "&Height:"
+    IDS_STRING5004          "&Set as default design size"
+    IDS_STRING5005          "OK"
+    IDS_STRING5006          "Cancel"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING5008          "Options"
+    IDS_STRING5007          "Character Library"
+    IDS_STRING5502          "C&haracter Library path:"
+    IDS_STRING5503          "&Browse..."
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING5504          "Default Design Size"
+    IDS_STRING5505          "&Default width for new designs:"
+    IDS_STRING5506          "D&efault height for new designs:"
+    IDS_STRING5507          "General Options"
+    IDS_STRING5508          "Do &not show New Design dialog box"
+    IDS_STRING5509          "Reset all program settings to default"
+    IDS_STRING5510          "Design P&roperties..."
+    IDS_STRING5511          "OK"
+    IDS_STRING5512          "Cancel"
+    IDS_STRING533           "Recentl&y used file list:"
+    IDS_STRING534           "entries"
+    IDS_STRING237           "&Undo levels:"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING96            "Saves the current design as another file"
+    IDS_STRING97            "Imports pictures to the design"
+    IDS_STRING98            "Generates output"
+    IDS_STRING99            "Generates output based on the settings in the Export Design window"
+    IDS_STRING100           "Changes print settings"
+    IDS_STRING101           "Prints the design"
+    IDS_STRING102           "Quits LED Font Generator"
+    IDS_STRING103           "Clears the selected cells and copies them onto the clipboard"
+    IDS_STRING104           "Copies the selected cells onto the clipboard"
+    IDS_STRING105           "Inserts the cells you have copied or cut in the current cursor location"
+    IDS_STRING106           "Clears selected cells"
+    IDS_STRING107           "Displays Character Library pane"
+    IDS_STRING108           "Displays Text to LCD pane"
+    IDS_STRING109           "Displays the Design Picture Preview window"
+    IDS_STRING110           "Shows or hides toolbars"
+    IDS_STRING111           "Refreshes the Character Library contents from the disk"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING112           "Displays the General toolbar"
+    IDS_STRING113           "Displays the Import & Export toolbar"
+    IDS_STRING114           "Selects all the cells of the design"
+    IDS_STRING115           "Clears all the cells of the design"
+    IDS_STRING116           "Toggles state of the selected cells"
+    IDS_STRING117           "Rotates design page"
+    IDS_STRING118           "Shifts the cells by clearing the shifted cells"
+    IDS_STRING119           "Shifts all the cells of the design by replacing the shifted cells"
+    IDS_STRING120           "Shifts the selected cells of the design by replacing the shifted cells"
+    IDS_STRING121           "Creates a character from the selection"
+    IDS_STRING122           "Imports pictures to the design"
+    IDS_STRING123           "Changes the design properties (size, color, ...)"
+    IDS_STRING124           "Rotates design page 90° clockwise"
+    IDS_STRING125           "Rotates design page 90° counter-clockwise"
+    IDS_STRING126           "Mirrors design page horizontally"
+    IDS_STRING127           "Mirrors design page vertically"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING128           "Shifts right"
+    IDS_STRING129           "Shifts left"
+    IDS_STRING130           "Rotates right"
+    IDS_STRING131           "Rotates left"
+    IDS_STRING132           "Rotates up"
+    IDS_STRING133           "Rotates down"
+    IDS_STRING134           "Rotates selection right"
+    IDS_STRING135           "Rotates selection left"
+    IDS_STRING136           "Rotates selection up"
+    IDS_STRING137           "Rotates selection down"
+    IDS_STRING138           "A tool for organizing Character Library"
+    IDS_STRING139           "A tool for animating the current design"
+    IDS_STRING140           "A tool for designing characters"
+    IDS_STRING141           "Changes the program language"
+    IDS_STRING142           "Changes the program options"
+    IDS_STRING143           "Displays help in the default help language"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING144           "Displays useful tips for working more efficiently"
+    IDS_STRING145           "Displays program information, version number, and copyright"
+    IDS_STRING146           "New Design"
+    IDS_STRING147           "Open Design"
+    IDS_STRING148           "Save Design"
+    IDS_STRING149           "Print Design"
+    IDS_STRING150           "Cut"
+    IDS_STRING151           "Copy"
+    IDS_STRING152           "Paste"
+    IDS_STRING153           "Delete"
+    IDS_STRING154           "Shift At Cursor Left"
+    IDS_STRING155           "Shift At Cursor Right"
+    IDS_STRING156           "Rotate Left"
+    IDS_STRING157           "Rotate Right"
+    IDS_STRING158           "Rotate Up"
+    IDS_STRING159           "Rotate Down"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING160           "Flip Horizontal"
+    IDS_STRING161           "Flip Vertical"
+    IDS_STRING162           "Rotate Page 90° CW"
+    IDS_STRING163           "Rotate Page 90° CCW"
+    IDS_STRING167           "Import Picture"
+    IDS_STRING168           "Export Design"
+    IDS_STRING169           "Quick Export"
+    IDS_STRING170           "Open/Close"
+    IDS_STRING171           "Insert selected character at the current cursor location"
+    IDS_STRING178           "Drag & Drop characters onto the design"
+    IDS_STRING172           "Design Height"
+    IDS_STRING173           "Design Width"
+    IDS_STRING174           "Space between cells"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING175           "Design Picture Preview"
+    IDS_STRING176           "Add to favorite fonts"
+    IDS_STRING177           "Remove from favorite fonts"
+    IDS_STRING180           "Space between cells:"
+    IDS_STRING182           "Quick Help"
+    IDS_STRING183           "Displays a short help about how to start using LED Font Generator"
+    IDS_STRING184           "&Status Bar"
+    IDS_STRING185           "Shows or hides the status bar"
+    IDS_STRING188           "Default Help Language..."
+    IDS_STRING189           "Changes the default help language of the program"
+    IDS_STRING205           "Organize"
+    IDS_STRING220           "General"
+    IDS_STRING229           "Design"
+    IDS_STRING221           "Import and Export"
+    IDS_STRING230           "Design"
+    IDS_STRING231           "Displays the Design toolbar"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING4528          "Close and refresh Character Library"
+    IDS_STRING263           "You can drag and drop characters into the character categories using left or right mouse buttons."
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING211           "Map Characters To Character Names"
+    IDS_STRING85            "Write a character in the left column and enter a character name in the right column to use when the related character is used in the input text (for example, for ',' enter 'COMMA' as character name in the Character Library)."
+    IDS_STRING502           "C&haracter:"
+    IDS_STRING503           "&Map to character name:"
+    IDS_STRING504           "&Remove"
+    IDS_STRING506           "OK"
+    IDS_STRING507           "Cancel"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING165           "&Add"
+    IDS_STRING6251          "Unable to save character map settings."
+    IDS_STRING6252          "&Edit"
+    IDS_STRING166           "Please enter a character to add."
+    IDS_STRING6255          "Please enter a name for the character."
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING181           "&Save"
+    IDS_STRING508           "Cancel"
+    IDS_STRING509           "Unable to open the design file '%s'."
+    IDS_STRING510           "Occured an error while reading configuration. Default configuration loaded."
+    IDS_STRING511           "Cannot shift right at the right side of the design."
+    IDS_STRING512           "Cannot shift left at the left side of the design."
+    IDS_STRING513           "No category is selected."
+    IDS_STRING514           "No characters found in the selected categories."
+    IDS_STRING515           "The characer file of the character '%s' was not found in the selected categories."
+    IDS_STRING516           "Please enter some text."
+    IDS_STRING517           "Do you want to save the changes to the current design?"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING518           "The file %s is either in unknown format or corrupted. %s Do you want to try to open it?"
+    IDS_STRING519           "%s already exists.%sDo you want to replace it?"
+    IDS_STRING520           "Do you want to save the changes to the current design?"
+    IDS_STRING521           "The character designer module, '%s', cannot be found."
+    IDS_STRING522           "Unable to read the program registry settings. Default settings loaded."
+    IDS_STRING523           "Program registry settings are corrupted. Default settings loaded."
+    IDS_STRING524           "Do you want to save the changes to the current design?"
+    IDS_STRING525           "Unable to save the program settings to the registry."
+    IDS_STRING526           "Selection size: %d x %d"
+    IDS_STRING527           "No selection"
+    IDS_STRING528           "Please enter some text."
+    IDS_STRING529           "Unable to Quick Export to the file:%s"
+    IDS_STRING530           "No settings are defined for Quick Export. You can define Quick Export settings in the Export Design window."
+    IDS_STRING57            "{no help is available}"
+    IDS_STRING201           "Special &Names..."
+    IDS_STRING202           "OK"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING186           "English Help|English Help|Farsi Help|Farsi Help|German Help|German Help|French Help|French Help"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING187           "Help file not found."
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING6007          "Default Help Language"
+    IDS_STRING190           "&Select default help language:"
+    IDS_STRING7002          "OK"
+    IDS_STRING7003          "Cancel"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING191           "The file %s already exists. Do you want to replace it?"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING192           "Converting picture..."
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING2752          "Unable to load the picture."
+    IDS_STRING2519          "No picture is available on the clipboard."
+    IDS_STRING2754          "Unable to get data from the clipboard."
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING193           "Output File"
+    IDS_STRING3252          "Select External Program"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING194           "Filled cell color cannot be same as the cleared cell color."
+    IDS_STRING3752          "Please enter a valid value for the design width."
+    IDS_STRING3753          "Please enter a valid value for the design height."
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING195           "The file %s already exists. Do you want to replace it?"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING196           "Error in reading the character file '%s'."
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING4752          "This category contains characters (or it may contain other files) and cannot be deleted."
+    IDS_STRING4753          "Are you sure you want to delete the category '%s'?"
+    IDS_STRING4754          "Unable to create the category '%s'."
+    IDS_STRING4755          "New Subcategory"
+    IDS_STRING4756          "Enter subcategory name:"
+    IDS_STRING4757          "New Main Category"
+    IDS_STRING4758          "Enter main category name:"
+    IDS_STRING4759          "Unable to create the category '%s'."
+    IDS_STRING4760          "Rename Category"
+    IDS_STRING4761          "Enter new name:"
+    IDS_STRING4762          "Unable to rename the category '%s' to '%s'."
+    IDS_STRING4763          "Are you sure you want to delete the character '%s'?"
+    IDS_STRING4764          "Unable to delete the character '%s'."
+    IDS_STRING4765          "The new category is the same as the old category."
+    IDS_STRING4766          "The destination category already have a character named '%s'."
+    IDS_STRING4767          "Unable to move the character '%s' to the destination category."
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING4768          "The destination category already have a character named '%s'."
+    IDS_STRING4769          "Unable to copy the character '%s' to the destination category."
+    IDS_STRING4770          "&Copy Character to '%s'"
+    IDS_STRING4771          "&Move Character to '%s'"
+    IDS_STRING4772          "Rename Character"
+    IDS_STRING4773          "Enter new name of the character:"
+    IDS_STRING4774          "Unable to rename the character '%s'."
+    IDS_STRING215           "Special Character Name"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING197           "Select Character Library path:"
+    IDS_STRING5752          "Please enter a valid value for default design width."
+    IDS_STRING5753          "Please enter a valid value for default design height."
+    IDS_STRING5754          "Design surface may not be less than 2 cells."
+    IDS_STRING5755          "This will reset all program settings to their default values.%sAre you sure you want to reset all the settings?"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING198           "&Clear Design         "
+    IDS_STRING40002         "&Save Character..."
+    IDS_STRING40003         "&Open Character..."
+    IDS_STRING40004         "&Width:"
+    IDS_STRING40005         "&Height:"
+    IDS_STRING40006         "&Filled cell color:"
+    IDS_STRING40007         "C&leared cell color:"
+    IDS_STRING40008         "G&ridlines color:"
+    IDS_STRING40009         "&Zoom:"
+    IDS_STRING40010         "Space between cells:"
+    IDS_STRING40011         "&Gridlines"
+    IDS_STRING40012         "Show c&ursor rectangle"
+    IDS_STRING40013         "Space between cells"
+    IDS_STRING40014         "Cut"
+    IDS_STRING40015         "Copy"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING40016         "Paste"
+    IDS_STRING40017         "Delete"
+    IDS_STRING40018         "Shift At Cursor Left"
+    IDS_STRING40019         "Shift At Cursor Right"
+    IDS_STRING40020         "Rotate Left"
+    IDS_STRING40021         "Rotate Right"
+    IDS_STRING40022         "Rotate Up"
+    IDS_STRING40023         "Rotate Down"
+    IDS_STRING40024         "Flip Horizontal"
+    IDS_STRING40025         "Flip Vertical"
+    IDS_STRING40026         "Rotate Page 90° CW"
+    IDS_STRING40027         "Rotate Page 90° CCW"
+    IDS_STRING232           "Edit and Design"
+    IDS_STRING236           "Edit and Design"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING199           "Occured an error while reading configuration. Default configuration loaded."
+    IDS_STRING40502         "Are you sure you want to clear the current character?"
+    IDS_STRING40503         "Filled cell color cannot be same as the cleared cell color."
+    IDS_STRING40504         "Unable to save the character."
+    IDS_STRING40505         "Do you want to save the current character?"
+    IDS_STRING40506         "Unable to open the character file '%s'."
+    IDS_STRING40507         "Cannot shift left at the left side of the design."
+    IDS_STRING40508         "Cannot shift right at the right side of the design."
+    IDS_STRING200           "&Open"
+    IDS_STRING40510         "Cancel"
+    IDS_STRING40511         "&Save"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING40512         "Cancel"
+    IDS_STRING40513         "Occured an error while saving the character. Please try again."
+    IDS_STRING203           "Special &Names..."
+    IDS_STRING40515         "OK"
+    IDS_STRING40516         "Character Groups"
+    IDS_STRING40517         "Characters In the Group"
+    IDS_STRING204           "Unable to save the program settings to the registry."
+    IDS_STRING209           "&User-Mapped Chars..."
+    IDS_STRING212           "Save Character"
+    IDS_STRING40521         "Open Character"
+    IDS_STRING213           "Select Character"
+    IDS_STRING40523         "User-Mapped Character Names"
+    IDS_STRING218           "&Yes"
+    IDS_STRING40525         "&No"
+    IDS_STRING40526         "&Abort"
+    IDS_STRING40527         "&Retry"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING531           "Character Groups"
+    IDS_STRING532           "Characters In the Group"
+    IDS_STRING2755          "The design file%sdoesn't exist."
+    IDS_STRING208           "&User-Mapped Chars..."
+    IDS_STRING210           "OK"
+    IDS_STRING535           "Cancel"
+    IDS_STRING40522         "Save Character"
+    IDS_STRING214           "Select Character"
+    IDS_STRING536           "User-Mapped Character Names"
+    IDS_STRING217           "&Yes"
+    IDS_STRING538           "&No"
+    IDS_STRING539           "&Abort"
+    IDS_STRING540           "&Retry"
+    IDS_STRING541           "&Ignore"
+    IDS_STRING542           "&All"
+    IDS_STRING543           "N&o to All"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING216           "row(s)"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING544           "Yes to &All"
+    IDS_STRING545           "&Help"
+    IDS_STRING241           "Undo"
+    IDS_STRING547           "Can't Undo"
+    IDS_STRING548           "Redo"
+    IDS_STRING549           "Can't Redo"
+    IDS_STRING248           "%s already exists.%sDo you want to replace it?"
+    IDS_STRING551           "Please enter a character name."
+    IDS_STRING552           "Please specify a location."
+    IDS_STRING251           "Unable to save the design to the file:%s"
+    IDS_STRING554           "The file is read-only:%s"
+    IDS_STRING252           "Unable to save to the file:%s"
+    IDS_STRING255           "Occured an error during the print operation. Please try again or use another printer."
+    IDS_STRING256           "Printing..."
+    IDS_STRING261           "Unable to save the character."
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING40528         "&Ignore"
+    IDS_STRING40529         "&All"
+    IDS_STRING40530         "N&o to All"
+    IDS_STRING40531         "Yes to &All"
+    IDS_STRING40532         "&Help"
+    IDS_STRING242           "Undo"
+    IDS_STRING40534         "Can't Undo"
+    IDS_STRING40535         "Redo"
+    IDS_STRING40536         "Can't Redo"
+    IDS_STRING249           "%s already exists.%sDo you want to replace it?"
+    IDS_STRING40538         "Please enter a character name."
+    IDS_STRING40539         "Please specify a location."
+    IDS_STRING250           "Error in reading the character file: %s"
+    IDS_STRING259           "The file is read-only:%s"
+    IDS_STRING260           "The character file%sdoesn't exist."
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING225           "&Close Full Screen"
+    IDS_STRING226           "Switch Full Screen Mode"
+    IDS_STRING7503          "Close Full Screen"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING7504          " "
+    IDS_STRING228           "Save and Edit"
+    IDS_STRING7506          "Design"
+    IDS_STRING7507          "Full Screen"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING222           "LED Font Generator &home page"
+    IDS_STRING223           "Launches the LED Font Generator home page in the default browser"
+    IDS_STRING224           "Clear All"
+    IDS_STRING7505          "&Full Screen"
+    IDS_STRING227           "Maximizes window to full screen"
+    IDS_STRING233           "General"
+    IDS_STRING234           "Design"
+    IDS_STRING235           "Import and Export"
+    IDS_STRING5516          "&Undo"
+    IDS_STRING238           "Undo the last change made on the design"
+    IDS_STRING239           "&Redo"
+    IDS_STRING240           "Redo the last undid change"
+    IDS_STRING243           "Character &Library"
+    IDS_STRING244           "&Text to LCD"
+    IDS_STRING245           "Cod&e to LCD"
+    IDS_STRING246           "&Edit in Character Designer..."
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING247           "Opens the selected character in the Character Designer for editing"
+    IDS_STRING254           " "
+    IDS_STRING253           "Loading Character Library...%sPress Cancel to cancel the operation."
+    IDS_STRING257           "Left-to-Right"
+    IDS_STRING258           "Right-to-Left"
+END
+
+#endif    // Farsi resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

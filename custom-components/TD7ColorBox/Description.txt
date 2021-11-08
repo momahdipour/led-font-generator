@@ -1,0 +1,3 @@
+Debugged TColorBox (TCustomColorBox) in Delphi 7
+Bug:
+  The original TColorBox does not restore selected color to the old color when the user selects 'Custom' from the list and cancels the color dialog.

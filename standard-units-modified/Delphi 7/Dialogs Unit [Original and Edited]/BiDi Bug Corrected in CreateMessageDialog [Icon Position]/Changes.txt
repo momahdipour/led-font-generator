@@ -1,0 +1,9 @@
+1. CreateMessageDialog [Icon Position]
+2. MessageCaptions global variable added to allow to change the caption of message dialogs (or leave it unchanged to have the standard message dialog captions)
+3. ForceDlgCaptionLeftToRight global variable:
+   If set to True, forces all message dialogs to display the message dialog
+   window caption in the Left-to-Right alignment, even if the default behavior
+   is Right-to-Left alignment. Useful when your message dialogs' captions are
+   in a Left-to-Right language (such as English), but the message is in a
+   Right-to-Left language (such as Farsi). To have standard behavior, leave it unchanged (or False).
+4. Global variable MessageDlgButtonCursor added to allow changing cursor of the buttons of dialogs.

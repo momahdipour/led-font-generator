@@ -1,0 +1,21 @@
+object ClipboardMonitorForm: TClipboardMonitorForm
+  Left = 191
+  Top = 115
+  BiDiMode = bdLeftToRight
+  BorderStyle = bsNone
+  Caption = 'ClipboardMonitorForm'
+  ClientHeight = 46
+  ClientWidth = 240
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  ParentBiDiMode = False
+  OnCreate = FormCreate
+  OnDestroy = FormDestroy
+  PixelsPerInch = 96
+  TextHeight = 13
+end
