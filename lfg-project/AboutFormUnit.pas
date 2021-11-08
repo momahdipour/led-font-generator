@@ -18,7 +18,6 @@ type
     InfoMemo: TMemo;
     HowToBuyBtn: TBitBtn;
     Label5: TLabel;
-    Label3: TLabel;
     MailLabel: TLabel;
     Bevel2: TBevel;
     Label6: TLabel;
@@ -26,6 +25,9 @@ type
     Label7: TLabel;
     Label10: TLabel;
     Image1: TImage;
+    Label2: TLabel;
+    Label8: TLabel;
+    Label9: TLabel;
     procedure HowToBuyBtnClick(Sender: TObject);
     procedure Label1Click(Sender: TObject);
     procedure Label4MouseEnter(Sender: TObject);
@@ -33,6 +35,7 @@ type
     procedure FormShow(Sender: TObject);
     procedure TntFormCreate(Sender: TObject);
     procedure InfoMemoKeyPress(Sender: TObject; var Key: Char);
+    procedure Label9Click(Sender: TObject);
   private
     { Private declarations }
   public
@@ -98,6 +101,9 @@ procedure TAboutForm.TntFormCreate(Sender: TObject);
 var
   ExeVersion: String;
 begin
+{$IFDEF _NO_LICENSE_}
+  HowToBuyBtn.Visible := False;
+{$ENDIF}
   ExeVersion := Procs.GetFileVersionString(Application.ExeName);
   if ExeVersion <> EmptyStr then
     InfoMemo.Lines[1] := InfoMemo.Lines[1] + ' (' + ExeVersion + ')';
@@ -108,6 +114,11 @@ begin
   if (Ord(Key) = VK_RETURN) or
      (Ord(Key) = VK_ESCAPE) then
     OKBtn.Click;
+end;
+
+procedure TAboutForm.Label9Click(Sender: TObject);
+begin
+  Procs.OpenUrlInDefaultBrowser(SOFTWARE_DEVELOPMENT_PAGE);
 end;
 
 end.

@@ -73,7 +73,7 @@ const
         LanguageName : 'English (Default)';
         InternationalName : 'Default program language (English)';
         Revision : '2.0';
-        Author : 'LCD Designer Developers (http://www.lcddesigner.com)';
+        Author : 'http://www.mahdipour.net/projects/led-font-generator';
         Description : 'Default';
         FileVersion : '2.0.0.0';
         RightToLeft : False

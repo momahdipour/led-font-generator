@@ -20,9 +20,9 @@ object OpenCharacterDialogForm: TOpenCharacterDialogForm
   PixelsPerInch = 96
   TextHeight = 13
   object MainSplitter: TSplitter
-    Left = 266
+    Left = 258
     Top = 0
-    Height = 313
+    Height = 309
     Align = alRight
     AutoSnap = False
     Beveled = True
@@ -30,8 +30,8 @@ object OpenCharacterDialogForm: TOpenCharacterDialogForm
   end
   object Panel3: TPanel
     Left = 0
-    Top = 313
-    Width = 482
+    Top = 309
+    Width = 474
     Height = 32
     Align = alBottom
     BevelOuter = bvNone
@@ -41,7 +41,7 @@ object OpenCharacterDialogForm: TOpenCharacterDialogForm
     ParentCtl3D = False
     TabOrder = 2
     DesignSize = (
-      482
+      474
       32)
     object CancelBtn: TTntBitBtn
       Left = 381
@@ -75,16 +75,16 @@ object OpenCharacterDialogForm: TOpenCharacterDialogForm
   object LookInGroup: TTntGroupBox
     Left = 0
     Top = 0
-    Width = 266
-    Height = 313
+    Width = 258
+    Height = 309
     Align = alClient
     BiDiMode = bdLeftToRight
     Caption = 'Look in:'
     ParentBiDiMode = False
     TabOrder = 1
     DesignSize = (
-      266
-      313)
+      258
+      309)
     object ShellTreeView1: TShellTreeView
       Left = 5
       Top = 37
@@ -168,10 +168,10 @@ object OpenCharacterDialogForm: TOpenCharacterDialogForm
     end
   end
   object CharactersPanel: TPanel
-    Left = 269
+    Left = 261
     Top = 0
     Width = 213
-    Height = 313
+    Height = 309
     Align = alRight
     BevelOuter = bvNone
     BiDiMode = bdLeftToRight
@@ -179,7 +179,7 @@ object OpenCharacterDialogForm: TOpenCharacterDialogForm
     TabOrder = 0
     object Splitter1: TSplitter
       Left = 0
-      Top = 159
+      Top = 155
       Width = 213
       Height = 3
       Cursor = crVSplit
@@ -193,7 +193,7 @@ object OpenCharacterDialogForm: TOpenCharacterDialogForm
       Left = 0
       Top = 0
       Width = 213
-      Height = 159
+      Height = 155
       Align = alClient
       BiDiMode = bdLeftToRight
       Caption = 'Characters'
@@ -203,7 +203,7 @@ object OpenCharacterDialogForm: TOpenCharacterDialogForm
         Left = 2
         Top = 15
         Width = 209
-        Height = 142
+        Height = 138
         Cursor = crHandPoint
         Align = alClient
         BiDiMode = bdLeftToRight
@@ -218,7 +218,7 @@ object OpenCharacterDialogForm: TOpenCharacterDialogForm
     end
     object PreviewGroup: TGroupBox
       Left = 0
-      Top = 162
+      Top = 158
       Width = 213
       Height = 151
       Align = alBottom
@@ -509,6 +509,7 @@ object OpenCharacterDialogForm: TOpenCharacterDialogForm
           ParentBiDiMode = False
           ParentFont = False
           Transparent = False
+          Visible = False
         end
       end
     end

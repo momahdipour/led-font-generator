@@ -36,10 +36,11 @@ const
   REG_USER_SETTINGS_PATH = ('Software\' + SOFTWARE_NAME + '\' + MAJOR_VERSION_NUMBER_STR + '.' + MINOR_VERSION_NUMBER_STR);
 
   //Web urls
-  SOFTWARE_HOME_PAGE = 'http://www.lcddesigner.com';
-  SOFTWARE_REGISTRATION_PAGE = 'http://www.lcddesigner.com';
-  SOFTWARE_DEFAULT_UPDATE_URL = 'http://www.lcddesigner.com/updates';
-  SOFTWARE_WEBSITE_ROOT_URL = 'localhost';  //'www.lcddesigner.com';
+  SOFTWARE_HOME_PAGE = 'http://www.mahdipour.net/projects/led-font-generator';
+  SOFTWARE_DEVELOPMENT_PAGE = 'https://www.github.com/momahdipour/led-font-generator';
+  SOFTWARE_REGISTRATION_PAGE = 'http://www.mahdipour.net/projects/led-font-generator';
+  SOFTWARE_DEFAULT_UPDATE_URL = 'http://www.mahdipour.net/projects/led-font-generator/updates';
+  SOFTWARE_WEBSITE_ROOT_URL = 'localhost';  //'www.mahdipour.net/projects/led-font-generator';
 
   { Character Designer }
 

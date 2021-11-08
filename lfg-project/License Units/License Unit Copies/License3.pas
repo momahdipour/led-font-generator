@@ -228,9 +228,14 @@ begin
 end;
 
 function CheckLicenseStatus: Boolean;
+{$IFNDEF _NO_LICENSE_}
 var
   Reg: TRegistry;
+{$ENDIF}
 begin
+{$IFDEF _NO_LICENSE_}
+  Result := True;
+{$ELSE}
   Result := False;
 
   try
@@ -275,6 +280,7 @@ begin
     Result := False;
 
   end;
+{$ENDIF}
 end;
 
 function RegisterSoftware(const ActivationCode: String): Boolean;
