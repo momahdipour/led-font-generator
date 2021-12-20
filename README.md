@@ -1,4 +1,6 @@
 # led-font-generator
+<b><i><h4>Project originally written in 2007</h4></i></b>
+
 LED Font Generator, The best LCD and LED Font Designer on the market
 
 <p></p>
